@@ -1,0 +1,167 @@
+STARTING CONFIGURATION: L_in = 20%
+Position (x,y): (64, 62) | Radius: 6 cells | Diameter: 12 cells
+All the required 2D tensors have been created successfully!
+Circular cylinder created!
+Step 000000 | t=   0.00 | Cd= -0.0004 | Cl= 16.2670
+Step 005000 | t=   2.50 | Cd=  0.7744 | Cl= -0.0473
+Step 010000 | t=   5.00 | Cd=  0.8291 | Cl= -0.2000
+Step 015000 | t=   7.50 | Cd=  0.8562 | Cl= -0.2599
+Step 020000 | t=  10.00 | Cd=  0.8581 | Cl= -0.2640
+Step 025000 | t=  12.50 | Cd=  0.8584 | Cl= -0.2644
+Step 030000 | t=  15.00 | Cd=  0.8586 | Cl= -0.2647
+Step 035000 | t=  17.50 | Cd=  0.8588 | Cl= -0.2650
+Step 040000 | t=  20.00 | Cd=  0.8590 | Cl= -0.2653
+Step 045000 | t=  22.50 | Cd=  0.8592 | Cl= -0.2655
+Step 050000 | t=  25.00 | Cd=  0.8593 | Cl= -0.2657
+Step 055000 | t=  27.50 | Cd=  0.8595 | Cl= -0.2658
+Step 060000 | t=  30.00 | Cd=  0.8597 | Cl= -0.2660
+Step 065000 | t=  32.50 | Cd=  0.8599 | Cl= -0.2661
+Step 070000 | t=  35.00 | Cd=  0.8600 | Cl= -0.2662
+Step 075000 | t=  37.50 | Cd=  0.8602 | Cl= -0.2663
+Step 080000 | t=  40.00 | Cd=  0.8604 | Cl= -0.2663
+Step 085000 | t=  42.50 | Cd=  0.8606 | Cl= -0.2663
+Step 090000 | t=  45.00 | Cd=  0.8607 | Cl= -0.2663
+Step 095000 | t=  47.50 | Cd=  0.8609 | Cl= -0.2663
+Step 100000 | t=  50.00 | Cd=  0.8610 | Cl= -0.2662
+Step 105000 | t=  52.50 | Cd=  0.8612 | Cl= -0.2662
+Step 110000 | t=  55.00 | Cd=  0.8613 | Cl= -0.2661
+Step 115000 | t=  57.50 | Cd=  0.8615 | Cl= -0.2659
+Step 120000 | t=  60.00 | Cd=  0.8616 | Cl= -0.2658
+Step 125000 | t=  62.50 | Cd=  0.8618 | Cl= -0.2656
+Step 130000 | t=  65.00 | Cd=  0.8619 | Cl= -0.2654
+Step 135000 | t=  67.50 | Cd=  0.8620 | Cl= -0.2652
+Step 140000 | t=  70.00 | Cd=  0.8622 | Cl= -0.2649
+Step 145000 | t=  72.50 | Cd=  0.8623 | Cl= -0.2646
+Step 150000 | t=  75.00 | Cd=  0.8624 | Cl= -0.2643
+Step 155000 | t=  77.50 | Cd=  0.8625 | Cl= -0.2640
+Step 160000 | t=  80.00 | Cd=  0.8627 | Cl= -0.2636
+Step 165000 | t=  82.50 | Cd=  0.8628 | Cl= -0.2632
+Step 170000 | t=  85.00 | Cd=  0.8629 | Cl= -0.2628
+Step 175000 | t=  87.50 | Cd=  0.8630 | Cl= -0.2624
+Step 180000 | t=  90.00 | Cd=  0.8631 | Cl= -0.2620
+Step 185000 | t=  92.50 | Cd=  0.8632 | Cl= -0.2615
+Step 190000 | t=  95.00 | Cd=  0.8633 | Cl= -0.2610
+Step 195000 | t=  97.50 | Cd=  0.8634 | Cl= -0.2604
+FINAL STATS L_in=20%: Mean Cd=0.8523, RMS Cl=0.1889
+Plot saved as Re1000_Lin20_Sweep.png
+
+============================================================
+STARTING CONFIGURATION: L_in = 40%
+Position (x,y): (128, 62) | Radius: 6 cells | Diameter: 12 cells
+All the required 2D tensors have been created successfully!
+Circular cylinder created!
+Step 000000 | t=   0.00 | Cd= -0.0004 | Cl= 16.2670
+Step 005000 | t=   2.50 | Cd=  0.7729 | Cl=  0.0052
+Step 010000 | t=   5.00 | Cd=  0.8402 | Cl=  0.1988
+Step 015000 | t=   7.50 | Cd=  0.8422 | Cl=  0.2580
+Step 020000 | t=  10.00 | Cd=  0.8301 | Cl=  0.1852
+Step 025000 | t=  12.50 | Cd=  0.8300 | Cl=  0.0267
+Step 030000 | t=  15.00 | Cd=  0.8424 | Cl= -0.1425
+Step 035000 | t=  17.50 | Cd=  0.8472 | Cl= -0.2476
+Step 040000 | t=  20.00 | Cd=  0.8367 | Cl= -0.2403
+Step 045000 | t=  22.50 | Cd=  0.8278 | Cl= -0.1217
+Step 050000 | t=  25.00 | Cd=  0.8350 | Cl=  0.0516
+Step 055000 | t=  27.50 | Cd=  0.8466 | Cl=  0.2005
+Step 060000 | t=  30.00 | Cd=  0.8438 | Cl=  0.2595
+Step 065000 | t=  32.50 | Cd=  0.8312 | Cl=  0.1993
+Step 070000 | t=  35.00 | Cd=  0.8291 | Cl=  0.0472
+Step 075000 | t=  37.50 | Cd=  0.8410 | Cl= -0.1248
+Step 080000 | t=  40.00 | Cd=  0.8475 | Cl= -0.2405
+Step 085000 | t=  42.50 | Cd=  0.8383 | Cl= -0.2474
+Step 090000 | t=  45.00 | Cd=  0.8281 | Cl= -0.1398
+Step 095000 | t=  47.50 | Cd=  0.8335 | Cl=  0.0312
+Step 100000 | t=  50.00 | Cd=  0.8458 | Cl=  0.1868
+Step 105000 | t=  52.50 | Cd=  0.8450 | Cl=  0.2587
+Step 110000 | t=  55.00 | Cd=  0.8325 | Cl=  0.2121
+Step 115000 | t=  57.50 | Cd=  0.8285 | Cl=  0.0675
+Step 120000 | t=  60.00 | Cd=  0.8394 | Cl= -0.1064
+Step 125000 | t=  62.50 | Cd=  0.8476 | Cl= -0.2320
+Step 130000 | t=  65.00 | Cd=  0.8398 | Cl= -0.2530
+Step 135000 | t=  67.50 | Cd=  0.8286 | Cl= -0.1570
+Step 140000 | t=  70.00 | Cd=  0.8321 | Cl=  0.0105
+Step 145000 | t=  72.50 | Cd=  0.8447 | Cl=  0.1719
+Step 150000 | t=  75.00 | Cd=  0.8460 | Cl=  0.2562
+Step 155000 | t=  77.50 | Cd=  0.8339 | Cl=  0.2235
+Step 160000 | t=  80.00 | Cd=  0.8280 | Cl=  0.0874
+Step 165000 | t=  82.50 | Cd=  0.8378 | Cl= -0.0872
+Step 170000 | t=  85.00 | Cd=  0.8475 | Cl= -0.2220
+Step 175000 | t=  87.50 | Cd=  0.8414 | Cl= -0.2568
+Step 180000 | t=  90.00 | Cd=  0.8293 | Cl= -0.1732
+Step 185000 | t=  92.50 | Cd=  0.8309 | Cl= -0.0102
+Step 190000 | t=  95.00 | Cd=  0.8435 | Cl=  0.1559
+Step 195000 | t=  97.50 | Cd=  0.8468 | Cl=  0.2520
+FINAL STATS L_in=40%: Mean Cd=0.8377, RMS Cl=0.1831
+Plot saved as Re1000_Lin40_Sweep.png
+
+--- INDEPENDENCE CHECK ---
+Cd at Lin=20% : 0.8523
+Cd at Lin=40% : 0.8377
+Relative Difference: 1.71%
+WARNING: Difference is > 1%. Boundaries are still affecting the flow. Proceeding to next configuration...
+
+============================================================
+STARTING CONFIGURATION: L_in = 60%
+Position (x,y): (192, 62) | Radius: 6 cells | Diameter: 12 cells
+All the required 2D tensors have been created successfully!
+Circular cylinder created!
+Step 000000 | t=   0.00 | Cd= -0.0004 | Cl= 16.2670
+Step 005000 | t=   2.50 | Cd=  0.7820 | Cl=  0.0668
+Step 010000 | t=   5.00 | Cd=  0.8361 | Cl= -0.0584
+Step 015000 | t=   7.50 | Cd=  0.8512 | Cl= -0.1990
+Step 020000 | t=  10.00 | Cd=  0.8498 | Cl= -0.2605
+Step 025000 | t=  12.50 | Cd=  0.8382 | Cl= -0.2223
+Step 030000 | t=  15.00 | Cd=  0.8326 | Cl= -0.0981
+Step 035000 | t=  17.50 | Cd=  0.8407 | Cl=  0.0623
+Step 040000 | t=  20.00 | Cd=  0.8514 | Cl=  0.1983
+Step 045000 | t=  22.50 | Cd=  0.8499 | Cl=  0.2604
+Step 050000 | t=  25.00 | Cd=  0.8383 | Cl=  0.2232
+Step 055000 | t=  27.50 | Cd=  0.8325 | Cl=  0.0999
+Step 060000 | t=  30.00 | Cd=  0.8406 | Cl= -0.0605
+Step 065000 | t=  32.50 | Cd=  0.8513 | Cl= -0.1971
+Step 070000 | t=  35.00 | Cd=  0.8500 | Cl= -0.2602
+Step 075000 | t=  37.50 | Cd=  0.8384 | Cl= -0.2242
+Step 080000 | t=  40.00 | Cd=  0.8325 | Cl= -0.1016
+Step 085000 | t=  42.50 | Cd=  0.8405 | Cl=  0.0587
+Step 090000 | t=  45.00 | Cd=  0.8513 | Cl=  0.1959
+Step 095000 | t=  47.50 | Cd=  0.8501 | Cl=  0.2601
+Step 100000 | t=  50.00 | Cd=  0.8386 | Cl=  0.2252
+Step 105000 | t=  52.50 | Cd=  0.8325 | Cl=  0.1033
+Step 110000 | t=  55.00 | Cd=  0.8403 | Cl= -0.0569
+Step 115000 | t=  57.50 | Cd=  0.8512 | Cl= -0.1947
+Step 120000 | t=  60.00 | Cd=  0.8502 | Cl= -0.2599
+Step 125000 | t=  62.50 | Cd=  0.8387 | Cl= -0.2261
+Step 130000 | t=  65.00 | Cd=  0.8325 | Cl= -0.1050
+Step 135000 | t=  67.50 | Cd=  0.8402 | Cl=  0.0551
+Step 140000 | t=  70.00 | Cd=  0.8511 | Cl=  0.1934
+Step 145000 | t=  72.50 | Cd=  0.8503 | Cl=  0.2597
+Step 150000 | t=  75.00 | Cd=  0.8388 | Cl=  0.2271
+Step 155000 | t=  77.50 | Cd=  0.8325 | Cl=  0.1067
+Step 160000 | t=  80.00 | Cd=  0.8400 | Cl= -0.0533
+Step 165000 | t=  82.50 | Cd=  0.8511 | Cl= -0.1922
+Step 170000 | t=  85.00 | Cd=  0.8504 | Cl= -0.2594
+Step 175000 | t=  87.50 | Cd=  0.8390 | Cl= -0.2280
+Step 180000 | t=  90.00 | Cd=  0.8325 | Cl= -0.1084
+Step 185000 | t=  92.50 | Cd=  0.8399 | Cl=  0.0515
+Step 190000 | t=  95.00 | Cd=  0.8510 | Cl=  0.1910
+Step 195000 | t=  97.50 | Cd=  0.8505 | Cl=  0.2592
+FINAL STATS L_in=60%: Mean Cd=0.8426, RMS Cl=0.1846
+Plot saved as Re1000_Lin60_Sweep.png
+
+--- INDEPENDENCE CHECK ---
+Cd at Lin=40% : 0.8377
+Cd at Lin=60% : 0.8426
+Relative Difference: 0.58%
+SUCCESS: The difference is <= 1%. Domain independence achieved!
+Stopping parameter sweep early to save time.
+
+==================================================
+             PARAMETRIC SWEEP SUMMARY
+==================================================
+Position (L_in)      | Mean Drag (Cd)      
+--------------------------------------------------
+20%                  | 0.8523
+40%                  | 0.8377
+60%                  | 0.8426
+==================================================
+
+Final domain independence summary plot saved as Domain_Independence_Summary.png
